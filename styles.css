@@ -31,3 +31,18 @@
     height: 40px;
 
 }
+
+.contentPoemNew{
+    width: 300px;
+    height: auto;
+    display: flex;
+    position: absolute;
+    left: 235px;
+    top: 80px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgba(0, 0, 0, 0.513);
+    text-align: justify;
+    /* position: relative; */
+    /* justify-content: center; */
+}
